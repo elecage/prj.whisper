@@ -25,3 +25,6 @@ Project WHISPER는 동서울대학교 창의융합교육지원센터에서 진�
 
 ## Acknowledgement
 본 프로젝트는 창업진흥원 메이커 문화 확산사업 지원을 받아 수행하고 있습니다.
+
+## References
+  1. University of Colorado Boulder, Build a Better Book, https://www.colorado.edu/project/bbb/
